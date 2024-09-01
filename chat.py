@@ -5,7 +5,7 @@ from discord.ext import commands
 # 設定 OpenAI API Key
 openai.api_key = ""
 # 設定 Discord Bot Token
-TOKEN = "MTA3NjgxMDE3NTYzNTI3MTcxMg.GHyHDW.4Z2RazJ3kkkecnqmVUvl6woy8IzveYecCS2hnI"
+TOKEN = ""
 
 # 設定特權意圖
 intents = discord.Intents.all()
